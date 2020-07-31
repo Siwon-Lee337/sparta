@@ -1,3 +1,5 @@
+# 스파르타코딩 9기 토요반 _ 이시원
+
 import requests
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
